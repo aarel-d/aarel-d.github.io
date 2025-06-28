@@ -39,8 +39,4 @@
     <p>Email: <a href="mailto:you@example.org">you@example.org</a></p>
   </section>
 
-    <footer>
-      <p>© 2025 Your Nonprofit Name. All rights reserved.</p>
-    </footer>
-  </body>
-  </html>
+  ```
