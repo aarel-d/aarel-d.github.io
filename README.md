@@ -1,11 +1,10 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Your Nonprofit Name</title>
   <link rel="stylesheet" href="style.css">
-</head>
+  <!-- Custom styles are not supported in Markdown previews. For advanced styling, view this content in a browser or use GitHub Pages. -->
 <body>
   <header>
     <h1>Your Nonprofit Name</h1>
@@ -40,8 +39,8 @@
     <p>Email: <a href="mailto:you@example.org">you@example.org</a></p>
   </section>
 
-  <footer>
-    <p>© 2025 Your Nonprofit Name. All rights reserved.</p>
-  </footer>
-</body>
-</html>
+    <footer>
+      <p>© 2025 Your Nonprofit Name. All rights reserved.</p>
+    </footer>
+  </body>
+  </html>
